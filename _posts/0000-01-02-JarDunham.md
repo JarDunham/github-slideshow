@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our JarDunham slide!"
 ---
-This is JarDunham's slide :tada:
+This is my awesome slide :tada:
 Use the left arrow to go back!
 
